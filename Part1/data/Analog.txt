@@ -1,0 +1,50 @@
+Time	Length	Type
+		
+12:21 AM	Short	Saying 'Hi/Thank You'
+12:30 AM	Short	Other
+01:00 AM	Long	Other
+02:20 AM	Medium	Discussing Assignment/Submissions
+07:00 AM	Medium	Discussing Assignment/Submissions
+08:00 AM	Short	Saying 'Hi/Thank You'
+08:10 AM	Short	Other
+09:00 AM	Short	Other
+09:05 AM	Medium	Saying 'Hi/Thank You'
+09:35 AM	Short	Saying 'Hi/Thank You'
+09:37 AM	Short	Saying 'Hi/Thank You'
+09:43 AM	Short	Other
+10:01 AM	Long	Discussing Assignment/Submissions
+11:03 AM	Medium	Saying 'Hi/Thank You'
+11:07 AM	Medium	Saying 'Hi/Thank You'
+11:25 AM	Medium	Other
+11:30 AM	Medium	Saying 'Hi/Thank You'
+11:47 AM	Short	Saying 'Hi/Thank You'
+11:55 AM	Short	Smiling at the person
+12:07 PM	Short	Smiling at the person
+12:15 PM	Short	Smiling at the person
+12:16 PM	Short	Other
+12:22 PM	Short	Smiling at the person
+12:30 PM	Short	Saying 'Hi/Thank You'
+12:32 PM	Short	Smiling at the person
+12:34 PM	Short	Saying 'Hi/Thank You'
+12:37 PM	Short	Saying 'Hi/Thank You'
+12:41 PM	Short	Saying 'Hi/Thank You'
+12:45 PM	Short	Other
+12:55 PM	Short	Saying 'Hi/Thank You'
+01:00 PM	Short	Smiling at the person
+01:05 PM	Short	Smiling at the person
+01:07 PM	Short	Saying 'Hi/Thank You'
+01:08 PM	Short	Other
+01:09 PM	Short	Other
+01:13 PM	Short	Saying 'Hi/Thank You'
+01:15 PM	Short	Other
+07:13 PM	Short	Other
+07:15 PM	Short	Discussing Assignment/Submissions
+07:45 PM	Medium	Saying 'Hi/Thank You'
+07:47 PM	Short	Other
+07:58 PM	Short	Saying 'Hi/Thank You'
+08:43 PM	Short	Saying 'Hi/Thank You'
+08:55 PM	Medium	Saying 'Hi/Thank You'
+10:01 PM	Short	Other
+10:03 PM	Short	Other
+10:24 PM	Short	Other
+10:30 PM	Short	Smiling at the person

@@ -1,0 +1,134 @@
+Time 	Length	Type
+		
+05:58 PM	Short	Skype/Facebook
+06:07 PM	Short	Email
+06:14 PM	Long	Skype/Facebook
+06:17 PM	Medium	Text Message
+06:30 PM	Medium	Email
+06:35 PM	Short	Email
+06:40 PM	Short	Phone Call
+06:56 PM	Long	Email
+07:15 PM	Short	Text Message
+07:45 PM	Short	Text Message
+08:25 PM	Long	Phone Call
+08:45 PM	Medium	Text Message
+09:12 PM	Medium	Text Message
+09:14 PM	Short	Text Message
+09:27 PM	Short	Text Message
+10:00 PM	Short	Text Message
+10:10 PM	Short	Phone Call
+10:13 PM	Short	Text Message
+10:15 PM	Short	Phone Call
+10:24 PM	Long	Phone Call
+10:35 PM	Medium	Email
+11:10 PM	Short	Email
+11:15 PM	Short	Phone Call
+11:17 PM	Medium	Phone Call
+11:26 PM	Short	Phone Call
+11:56 PM	Short	Phone Call
+12:20 AM	Medium	Phone Call
+12:40 AM	Short	Skype/Facebook
+07:02 AM	Short	Phone Call
+07:10 AM	Short	Phone Call
+07:17 AM	Short	Email
+07:46 AM	Short	Phone Call
+08:28 AM	Short	Text Message
+08:29 AM	Short	Text Message
+08:32 AM	Short	Text Message
+09:45 AM	Medium	Phone Call
+10:30 AM	Medium	Phone Call
+11:00 AM	Short	Text Message
+11:10 AM	Short	Text Message
+11:26 AM	Short	Text Message
+12:53 PM	Medium	Email
+03:07 PM	Short	Text Message
+03:56 PM	Short	Text Message
+07:28 PM	Medium	Phone Call
+07:35 PM	Medium	Phone Call
+08:00 PM	Short	Text Message
+08:11 PM	Short	Text Message
+08:58 PM	Short	Skype/Facebook
+09:12 PM	Short	Skype/Facebook
+09:33 PM	Long	Phone Call
+10:14 PM	Long	Phone Call
+10:30 PM	Short	Text Message
+10:33 PM	Short	Text Message
+10:36 PM	Short	Text Message
+10:41 PM	Short	Text Message
+11:05 PM	Short	Text Message
+11:07 PM	Long	Text Message
+12:02 AM	Medium	Phone Call
+12:06 AM	Short	Email
+07:06 AM	Short	Phone Call
+07:31 AM	Short	Phone Call
+08:26 AM	Short	Phone Call
+08:38 AM	Medium	Text Message
+10:34 AM	Medium	Phone Call
+11:10 AM	Short	Phone Call
+11:14 AM	Short	Text Message
+11:17 AM	Short	Text Message
+11:33 AM	Long	Skype/Facebook
+12:02 PM	Short	Skype/Facebook
+12:05 PM	Short	Text Message
+12:10 PM	Short	Text Message
+12:24 PM	Medium	Phone Call
+12:30 PM	Short	Text Message
+12:36 PM	Short	Text Message
+12:38 PM	Short	Text Message
+12:41 PM	Short	Text Message
+12:44 PM	Short	Text Message
+12:49 PM	Short	Text Message
+01:03 PM	Short	Email
+01:13 PM	Short	Text Message
+01:17 PM	Short	Text Message
+01:18 PM	Short	Text Message
+01:24 PM	Short	Text Message
+03:43 PM	Short	Email
+03:47 PM	Short	Skype/Facebook
+04:01 PM	Short	Text Message
+05:34 PM	Short	Text Message
+05:36 PM	Medium	Phone Call
+06:45 PM	Short	Phone Call
+07:05 PM	Medium	Phone Call
+08:36 PM	Short	Text Message
+08:38 PM	Short	Text Message
+08:52 PM	Medium	Phone Call
+10:20 PM	Short	Phone Call
+10:31 PM	Medium	Skype/Facebook
+11:13 PM	Medium	Phone Call
+11:25 PM	Short	Phone Call
+11:47 PM	Medium	Text Message
+11:49 PM	Short	Text Message
+07:56 AM	Short	Phone Call
+09:30 AM	Short	Text Message
+10:34 AM	Medium	Text Message
+10:45 AM	Short	Text Message
+10:48 AM	Short	Text Message
+10:52 AM	Short	Text Message
+11:00 AM	Short	Phone Call
+11:10 AM	Short	Text Message
+11:12 AM	Short	Text Message
+11:19 AM	Long	Skype/Facebook
+11:42 AM	Medium	Skype/Facebook
+11:57 AM	Short	Text Message
+12:00 PM	Short	Text Message
+12:00 PM	Short	Text Message
+12:02 PM	Short	Text Message
+12:06 PM	Short	Text Message
+12:07 PM	Medium	Text Message
+12:09 PM	Medium	Text Message
+12:11 PM	Short	Text Message
+12:34 PM	Medium	Email
+12:44 PM	Short	Email
+01:11 PM	Short	Text Message
+01:19 PM	Short	Text Message
+01:24 PM	Short	Text Message
+01:30 PM	Short	Text Message
+02:34 PM	Short	Text Message
+03:45 PM	Short	Text Message
+04:14 PM	Short	Text Message
+05:30 PM	Medium	Phone Call
+06:26 PM	Medium	Phone Call
+06:45 PM	Medium	Phone Call
+06:56 PM	Short	Text Message
+07:00 PM	Medium	Text Message
